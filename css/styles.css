@@ -1,0 +1,13 @@
+
+h1 {
+  color: green;
+}
+
+img {
+  width: 900px;
+  height: 900px;
+}
+
+body {
+  background-image: url("../images/candy.jpg");
+}
