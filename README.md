@@ -10,8 +10,8 @@ _This webpage is the first exercise of Epicodus Week 1, Introduction to Programm
 
 ## Setup/Installation Requirements
 
-*_Download web browser_
-*_Go to Webpage_
+* _Download web browser_
+* _Go to Webpage_
 
 ## Known Bugs
 
@@ -23,8 +23,8 @@ _Contact Eva Wiedmann at evawiedmann@gmail.com_
 
 ## Technologies Used
 
-*_HTML_
-*_CSS_
+* _HTML_
+* _CSS_
 
 ### License
 
